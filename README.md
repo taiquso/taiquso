@@ -21,7 +21,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/evans-lia
 
 ## 🚀 Projects
 Here are some projects I'm proud of:
-- **Project 1:** Brawlguide.com, a profile tracker using Supercell's API from my favorite mobile game, Brawl Stars. (Here is my profile tag for the curious ones : #29RCPPVJ2)
+- **Brawlguide.com:** a profile tracker using Supercell's API from my favorite mobile game, Brawl Stars. (Here is my profile tag for the curious ones : #29RCPPVJ2)
 
 ## 📚 Education
 - **BSc in Web and App Development** - CREA, Geneva, Switzerland
