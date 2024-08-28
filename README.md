@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Evans
 
 I'm a **Full-Stack Web Developer** currently pursuing an undergraduate degree in **Web and App Development**. Based in the beautiful city of **Geneva, Switzerland**, I specialize in building robust, scalable, and user-friendly web applications. With a passion for both front-end and back-end development, I enjoy solving complex problems and turning ideas into reality through code.
 
