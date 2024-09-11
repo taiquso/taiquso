@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Evans
 
-I'm a **Full-Stack Web Developer** currently pursuing an undergraduate degree in **Web and App Development**. Based in the beautiful city of **Geneva, Switzerland**, I specialize in building robust, scalable, and user-friendly web applications. With a passion for both front-end and back-end development, I enjoy solving complex problems and turning ideas into reality through code.
+I'm a **Front-end Web Developer** with a focus on **Web Motion Graphics** currently pursuing an undergraduate degree in **Web and App Development**. Based in the beautiful city of **Geneva, Switzerland**, I specialize in building robust, scalable, and user-friendly web applications. With a passion for both front-end and back-end development, I enjoy solving complex problems and turning ideas into reality through code.
 
 ## 💼 Skills & Technologies
 - **Languages:** JavaScript, HTML, CSS, Python, SQL
