@@ -4,7 +4,7 @@ I'm a **Front-end Web Developer** with a focus on **Web Motion Graphics** curren
 
 ## 💼 Skills & Technologies
 - **Languages:** JavaScript, HTML, CSS, Python, SQL
-- **Front-End:** React, Tailwind, Radix-UI, Framer Motion
+- **Front-End:** React, Tailwind, Radix-UI, Framer Motion, Gsap
 - **Back-End:** Node.js, Express.js
 - **Databases:** MongoDB, Supabase
 - **Tools & Platforms:** Git, Docker, Vercel
